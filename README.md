@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/Banner.png" width="100%">
+</p>
 # Hi there! 👋 I'm Vaikarna
 
 <div align="center">
