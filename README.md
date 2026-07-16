@@ -1,10 +1,9 @@
+<div align="center">
 <p align="center">
   <img src="./Assets/Banner.png" width="100%">
 </p>
 ---
 # Hi there! 👋 I'm Vaikarna
-
-<div align="center">
 
 ### 🤖 AI Engineer in Progress | ☕ Python Enthusiast | 🚀 Builder of Things That (Usually) Work
 
