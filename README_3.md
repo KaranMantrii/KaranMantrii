@@ -57,7 +57,7 @@ Mission: "Turning code into Money 💵"
 <td width="50%">
 
 ### 🩺 Symptom Checker
-`Collaborative Project`
+`Collaborative Project with Kaushik Ram Yacham`
 
 AI-assisted tool that analyzes symptoms and suggests possible conditions — because Googling your symptoms shouldn't end in "it's probably fatal."
 
@@ -68,7 +68,7 @@ AI-assisted tool that analyzes symptoms and suggests possible conditions — bec
 <td width="50%">
 
 ### 🥗 Nutriscan+
-`Collaborative Project`
+`Collaborative Project with Kaushik Ram Yacham`
 
 Smart nutrition scanning & tracking system to help people actually understand what they're eating (revolutionary concept, I know).
 
@@ -123,5 +123,5 @@ Smart nutrition scanning & tracking system to help people actually understand wh
 </p>
 
 <p align="center">
-<i>~ end_of_transmission.log ~</i>
+Leave a ⭐ if you find any of my projects helpful.
 </p>
