@@ -50,7 +50,7 @@ Mission: "Turning code into Money 💵"
 
 ---
 
-## 🚀 Active Missions
+## 🚀 Projects
 
 <table>
 <tr>
@@ -106,16 +106,16 @@ Smart nutrition scanning & tracking system to help people actually understand wh
 ## 📊 GitHub Telemetry
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karanmantri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=a277ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karanmantri&theme=tokyonight&hide_border=true&background=0d1117&ring=a277ff&fire=a277ff&currStreakLabel=a277ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KaranMantrii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=a277ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMantrii&theme=tokyonight&hide_border=true&background=0d1117&ring=a277ff&fire=a277ff&currStreakLabel=a277ff" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanmantri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMantrii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9" width="45%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanmantri&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a277ff&line=a277ff&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranMantrii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a277ff&line=a277ff&point=ffffff" width="90%" />
 </p>
 
 <p align="center">
