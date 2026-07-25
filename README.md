@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./Assets/Banner.png" width="100%">
-</p>
-
-  <h1> Hi there! 👋 I'm Vaikarna</h1>
 
 ### 🤖 AI Engineer in Progress | ☕ Python Enthusiast | 🚀 Builder of Things That (Usually) Work
 
