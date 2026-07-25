@@ -1,20 +1,4 @@
 
-### 🤖 AI Engineer in Progress | ☕ Python Enthusiast | 🚀 Builder of Things That (Usually) Work
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Engineering Undergraduate
-
-🧠 Currently teaching my computer to think... and occasionally teaching myself too.
-
-🚀 Passionate about AI, Machine Learning, LLMs, and Backend Development.
-
-💡 I enjoy building products that solve actual problems instead of "yet another calculator."
-
 🏎 Formula 1 f<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karan+Mantri+%F0%9F%91%8B;AI+%2B+Rising+Tech+Enthusiast+%F0%9F%A4%96;Building+things+that+don't+exist+yet..." alt="Typing SVG" />
 </h1>
