@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanmantri&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=karanmantri&label=Profile%20Views&color=a277FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-a277FF?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
 
 ---
