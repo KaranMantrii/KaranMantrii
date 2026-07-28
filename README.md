@@ -1,127 +1,49 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karan+Mantri+%F0%9F%91%8B;AI+%2B+Rising+Tech+Enthusiast+%F0%9F%A4%96;Building+things+that+don't+exist+yet..." alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,75:7c3aed,100:ec4899&height=220&section=header&text=Karan%20Mantri&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20from%20the%20future%20%E2%9C%A6&descAlignY=60&animation=fadeIn" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=AI+Explorer+%7C+Full-Stack+Builder+%7C+Tech+Dreamer;Shipping+ideas%2C+one+commit+at+a+time.;Turning+caffeine+and+curiosity+into+code+%E2%9A%A1" alt="Typing SVG" /></a>
+  <p><img src="https://komarev.com/ghpvc/?username=KaranMantrii&label=PROFILE+VISITORS&color=14b8a6&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/KaranMantrii?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=111827" alt="Followers" /></p>
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:a277ff&height=200&section=header&text=SYSTEM.INIT()&fontSize=50&fontColor=a277ff&animation=fadeIn&fontAlignY=38&desc=Loading%20Karan_Mantri.exe...&descAlignY=58&descSize=18" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanmantri&label=Profile%20Views&color=a277FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-a277FF?style=for-the-badge&logo=statuspage&logoColor=white" />
-</p>
-
----
-
-## 👨‍💻 About the Operator
+## `> whoami`
 
 ```yaml
-Name: Karan Mantri
-Languages: [Python, Java, C]
-Frameworks: [ReactJS, FastAPI, Flask, Django]
-Projects: Symptom Checker, Nutriscan+
-hobbies: [Watching Movies, Playing Video Games]
-Interests: [Artificial Intelligence, Emerging Tech]
-Mission: "Turning code into Money 💵"
+name: Karan Mantri
+role: Builder of useful, curious things
+currently_exploring: [Artificial Intelligence, rising technologies]
+mindset: "The best way to predict the future is to build it."
+off_the_keyboard: [Watching movies 🎬, playing video games 🎮]
 ```
 
-> 💬 *"I don't fear AI taking over — I'm too busy trying to build it."*
+> I turn ambitious ideas into working code — then keep iterating until they feel like magic.
 
----
+## `> tech --stack`
 
-## 🧠 Tech Arsenal
+<div align="center"><img src="https://skillicons.dev/icons?i=python,java,c,react,fastapi,flask,django,git,github,vscode&theme=dark" alt="Technology stack" /></div>
 
-**Languages**
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-a277ff?style=for-the-badge&logo=python&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=a277ff" />
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=a277ff" />
-</p>
+<div align="center"><img src="https://img.shields.io/badge/Python-Expertise-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ReactJS-Interface%20Craft-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/AI-The%20Next%20Frontier-A855F7?style=for-the-badge&logo=openai&logoColor=white" /></div>
 
-**Frameworks & Tools**
+## `> missions.log`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a277ff" />
-  <img src="https://img.shields.io/badge/FastAPI-a277ff?style=for-the-badge&logo=fastapi&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=a277ff" />
-  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=a277ff" />
-</p>
+<table><tr><td width="52%"><h3>🥗 Nutriscan+</h3><p><i>Built in collaboration</i></p><p>Making nutrition insights more accessible, one scan at a time.</p><img src="https://img.shields.io/badge/STATUS-COLLABORATIVE-14b8a6?style=flat-square" /></td><td width="48%"><h3>🌱 Carbonary</h3><p><i>Vibe-Coded Hackathon project</i></p><p>Where rapid experimentation meets a cleaner, smarter tomorrow.</p><img src="https://img.shields.io/badge/MODE-HACKATHON-f97316?style=flat-square" /></td></tr></table>
 
----
+## `> github --telemetry`
 
-## 🚀 Projects
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranMantrii&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=a78bfa&text_color=cbd5e1&ring_color=f472b6&rank_icon=github" alt="Karan's GitHub stats" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=KaranMantrii&theme=transparent&hide_border=true&ring=2DD4BF&fire=F472B6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=334155" alt="GitHub streak" /></div>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMantrii&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1" alt="Top languages" /></div>
 
-### 🩺 Symptom Checker
-`Collaborative Project with Kaushik Ram Yacham`
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KaranMantrii&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" /></div>
 
-AI-assisted tool that analyzes symptoms and suggests possible conditions — because Googling your symptoms shouldn't end in "it's probably fatal."
+## `> contribution_matrix --live`
 
-<img src="https://img.shields.io/badge/Type-Collaboration-a277ff?style=flat-square" />
-<img src="https://img.shields.io/badge/Domain-HealthTech-161b22?style=flat-square" />
+<div align="center"><img src="https://raw.githubusercontent.com/KaranMantrii/KaranMantrii/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating my contributions" /></div>
 
-</td>
-<td width="50%">
+> **System status:** Curiosity online. Ideas compiling. The next big commit is loading…
 
-### 🥗 Nutriscan+
-`Collaborative Project with Kaushik Ram Yacham`
+<div align="center"><a href="https://github.com/KaranMantrii?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-14b8a6?style=for-the-badge" /></div>
 
-Smart nutrition scanning & tracking system to help people actually understand what they're eating (revolutionary concept, I know).
+<br/>
 
-<img src="https://img.shields.io/badge/Type-Collaboration-a277ff?style=flat-square" />
-<img src="https://img.shields.io/badge/Domain-HealthTech-161b22?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎮 Off-Duty Protocol
-
-```text
-[MODULE: leisure.exe]
-> 🎬 Watching Movies       ....... loop(true)
-> 🕹️  Playing Video Games ....... rank: still climbing
->
-```
-
----
-
-## 📡 Signal Interests
-
-<p align="left">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-a277ff?style=for-the-badge&logo=brainly&logoColor=white" />
-<img src="https://img.shields.io/badge/Rising_Tech-161b22?style=for-the-badge&logo=futurelearn&logoColor=a277ff" />
-</p>
-
-> 🔭 Watching where AI goes next — and trying to build a small piece of it myself.
-
----
-
-## 📊 GitHub Telemetry
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KaranMantrii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=a277ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMantrii&theme=tokyonight&hide_border=true&background=0d1117&ring=a277ff&fire=a277ff&currStreakLabel=a277ff" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMantrii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9" width="45%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranMantrii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a277ff&line=a277ff&point=ffffff" width="90%" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a277ff,50:161b22,100:0d1117&height=120&section=footer" />
-</p>
-
-<p align="center">
-Leave a ⭐ if you find any of my projects helpful.
-</p>
+<div align="center"><i>"Code is a superpower. Curiosity is the fuel."</i><br/><br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,30:7c3aed,65:0f766e,100:020617&height=120&section=footer" width="100%" /></div>
