@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Git Video.gif" alt="Cozy city lights ambient animation" width="100%" />
+  <img src="./assets/Git-Video.gif" width="100%" />
 </div>
 
 <div align="center">
