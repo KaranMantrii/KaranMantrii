@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/Git-Video.gif" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/KaranMantrii/KaranMantrii/main/assets/Git-Video.gif?v=3"
+    alt="Cozy city lights ambient animation"
+    width="100%"
+  />
 </div>
 
 <div align="center">
