@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/Git Video.gif" alt="Cozy city lights ambient animation" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,75:7c3aed,100:ec4899&height=220&section=header&text=Karan%20Mantri&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20from%20the%20future%20%E2%9C%A6&descAlignY=60&animation=fadeIn" width="100%" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=AI+Explorer+%7C+Full-Stack+Builder+%7C+Tech+Dreamer;Shipping+ideas%2C+one+commit+at+a+time.;Turning+caffeine+and+curiosity+into+code+%E2%9A%A1" alt="Typing SVG" /></a>
   <p><img src="https://komarev.com/ghpvc/?username=KaranMantrii&label=PROFILE+VISITORS&color=14b8a6&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/KaranMantrii?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=111827" alt="Followers" /></p>
