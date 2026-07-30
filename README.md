@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/KaranMantrii/KaranMantrii/main/Assets/Git-Video.gif?v=3"
+    src="./Assets/Git-Video.gif"
     alt="Cozy city lights ambient animation"
     width="100%"
   />
