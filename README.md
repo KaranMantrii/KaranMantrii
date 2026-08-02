@@ -42,7 +42,6 @@ off_the_keyboard: [Watching movies 🎬, playing video games 🎮]
 
 <div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMantrii&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1" alt="Top languages" /></div>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KaranMantrii&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" /></div>
 
 ## `> contribution_matrix --live`
 
