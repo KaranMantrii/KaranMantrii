@@ -40,9 +40,6 @@ off_the_keyboard: [Watching movies 🎬, playing video games 🎮]
 
 <div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranMantrii&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=a78bfa&text_color=cbd5e1&ring_color=f472b6&rank_icon=github" alt="Karan's GitHub stats" /> <img height="170" src="https://streak-stats.demolab.com/?user=KaranMantrii&theme=transparent&hide_border=true&ring=2DD4BF&fire=F472B6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=334155" alt="GitHub streak" /></div>
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMantrii&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1" alt="Top languages" /></div>
-
-
 ## `> contribution_matrix --live`
 
 <div align="center"><img src="https://raw.githubusercontent.com/KaranMantrii/KaranMantrii/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating my contributions" /></div>
